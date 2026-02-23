@@ -7,7 +7,7 @@ This project predicts customer churn using machine learning techniques. The goal
 - Matplotlib / seaborn
 - Jupyter Notebook
 
-## Key steps:
+## Key steps
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Feature engineering
@@ -20,3 +20,10 @@ This project predicts customer churn using machine learning techniques. The goal
 ## Key Results
 - Achieved ~77% recall on churned customers.
 - Identified usage frequency and session duration as key predictors.
+
+## Business Value
+These models can help identify high-risk customers early, enabling targeted retention efforts.
+
+## Files
+- customer_churn_project_exploration.ipynb
+- customer_churn_project_modelling.ipynb
