@@ -1,11 +1,17 @@
 # Customer Churn Analysis
 ## Overview
-This project analyses subscription customer data to identify drivers of churn.
+This project predicts customer churn using machine learning techniques. The goal is to identify customers at risk of leaving and understand the key factors driving churn.
 
 ## Tools Used
 - Python (Pandas, Scikit-learn)
-- Matplotlib
+- Matplotlib / seaborn
 - Jupyter Notebook
+
+## Key steps:
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Model training and evaluation
   
 ## Models
 - Ensemble Averaging
