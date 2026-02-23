@@ -1,6 +1,6 @@
 # data-analysis-portfolio
 Python-based data analysis projects including customer churn modelling and sports analytics. 
-
+--------------------------------------------------------------------------------------------
 
 ## Customer Churn Analysis
 
@@ -15,3 +15,6 @@ This project analyses subscription customer data to identify drivers of churn.
 ### Key Results
 - Achieved ~77% recall on churned customers.
 - Identified usage frequency and session duration as key predictors.
+----------------------------------------------------------------------------------------------
+
+## Premier Leauge Discipline Analysis
