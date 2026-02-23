@@ -21,7 +21,7 @@ This project predicts the number of yellow and red cards in Premier League footb
 * **Production (Phase 2)**: Match-level data with learned mixing weights
 
 ## Key Results
-* Achieved MAE of 1.67 cards per match
+* MAE: 1.67 cards | RMSE: 2.13 cards | Log-Loss: 2.16 cards
 * 66.5% of predictions within 2 cards of actual outcome
 * Discovered away teams are more context-dependent (55% influenced by home opponent vs 45% own tendency)
 * Removing referee scaling improved all metrics (simpler model performed better)
