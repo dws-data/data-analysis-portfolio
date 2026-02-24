@@ -27,7 +27,11 @@ This project predicts the number of yellow and red cards in Premier League footb
 * Removing referee scaling improved all metrics (simpler model performed better)
 
 ## Data
-Data files are not included in this repository. The model uses match-level data (5 seasons, 2021-2026), team statistics, and referee data sourced from football-data.co.uk, thestatsdontlie.com, and whoscored.com.
+* Data files are not included in this repository. The model uses match-level data (5 seasons, 2021-2026), team statistics, and referee data sourced from football-data.co.uk, thestatsdontlie.com, and whoscored.com.
 
-## Next steps 
-- Automation
+## Future Work
+* Automation: Weekly data ingestion and automated prediction generation
+* Parameter tuning: Grid search for optimal decay rates (alpha values)
+* Feature engineering: Derby/rivalry indicators, team form, match importance
+* Alternative distributions: Negative binomial for overdispersion
+
